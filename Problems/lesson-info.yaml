@@ -4,3 +4,7 @@ content:
 - Get first and last elements
 - Application as a class
 - Inverse boolean flags
+- Avoid division by zero
+- Return empty string when argument is null
+- Avoid NPE
+- Out of bounds_
